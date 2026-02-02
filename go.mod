@@ -1,6 +1,6 @@
 module github.com/0north/tflint-ruleset-0north-plugin
 
-go 1.24.6
+go 1.25.5
 
 require (
 	github.com/hashicorp/hcl/v2 v2.24.0
@@ -73,7 +73,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/oklog/run v1.2.0 // indirect
-	github.com/terraform-linters/tflint-ruleset-aws v0.36.0
+	github.com/terraform-linters/tflint-ruleset-aws v0.45.0
 	github.com/zclconf/go-cty v1.17.0 // indirect
 	golang.org/x/exp v0.0.0-20260112195511-716be5621a96
 	golang.org/x/net v0.49.0 // indirect
